@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import rayleigh from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-rayleigh@esm/index.mjs';
+import rayleigh from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-rayleigh@v0.2.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-rayleigh@esm/index.mjs';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-rayleigh@v0.2.1-esm/index.mjs';
 ```
 
 #### rayleigh( sigma )
@@ -387,7 +387,7 @@ var o = rand.toJSON();
 <body>
 <script type="module">
 
-import rayleigh from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-rayleigh@esm/index.mjs';
+import rayleigh from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-rayleigh@v0.2.1-esm/index.mjs';
 
 var seed;
 var rand;
