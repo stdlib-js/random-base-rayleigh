@@ -438,6 +438,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/rayleigh`][@stdlib/random/array/rayleigh]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a Rayleigh distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/rayleigh`][@stdlib/random/iter/rayleigh]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a Rayleigh distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/rayleigh`][@stdlib/random/streams/rayleigh]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from a Rayleigh distribution.</span>
+-   <span class="package-name">[`@stdlib/random-rayleigh`][@stdlib/random/rayleigh]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a Rayleigh distribution.</span>
 
 </section>
 
@@ -526,6 +527,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/rayleigh]: https://github.com/stdlib-js/random-iter-rayleigh
 
 [@stdlib/random/streams/rayleigh]: https://github.com/stdlib-js/random-streams-rayleigh
+
+[@stdlib/random/rayleigh]: https://github.com/stdlib-js/random-rayleigh
 
 <!-- </related-links> -->
 
