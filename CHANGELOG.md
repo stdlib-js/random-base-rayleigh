@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-16)
+## Unreleased (2026-09-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`d083c3f`](https://github.com/stdlib-js/stdlib/commit/d083c3ff225ae0139f390869d1eb89c84951e013) - **bench:** bound seed growth in `random/base/*` factory benchmarks [(#15130)](https://github.com/stdlib-js/stdlib/pull/15130) _(by Philipp Burckhardt)_
 -   [`4db26c0`](https://github.com/stdlib-js/stdlib/commit/4db26c0ab2b51a6279793c99f5eaceb8e452599a) - **docs:** fix inconsistent JSDoc annotations [(#13959)](https://github.com/stdlib-js/stdlib/pull/13959) _(by Philipp Burckhardt)_
 -   [`8ef0632`](https://github.com/stdlib-js/stdlib/commit/8ef06328d08c865d85bbe52bf72783bc041870f0) - **docs:** update related packages sections [(#12089)](https://github.com/stdlib-js/stdlib/pull/12089) _(by stdlib-bot, Athan Reines)_
 -   [`3f792d9`](https://github.com/stdlib-js/stdlib/commit/3f792d977d6941de561c97e5462fc957db0997ed) - **bench:** refactor to use string interpolation in `random/base` [(#11423)](https://github.com/stdlib-js/stdlib/pull/11423) _(by Karan Anand)_
